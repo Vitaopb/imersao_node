@@ -1,0 +1,1 @@
+# Diferente das promise o Event Emmiter pode executar o evento mais de uma vez 
