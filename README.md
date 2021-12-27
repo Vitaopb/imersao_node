@@ -21,4 +21,6 @@
 :ballot_box_with_check: For Loop<br>
 :ballot_box_with_check: For in<br>
 :ballot_box_with_check: For of<br>
-:ballot_box_with_check: For Each<br>
+:ballot_box_with_check: For Each
+#### Uma observação é que usamos o console.time para ver qual deles é mais performático.<br>E o for in foi o mais rápido com 0.029ms de velocidade.
+<hr>
