@@ -8,4 +8,17 @@
 :ballot_box_with_check: EventEmmiter<br>
 <hr>
 
-# Modulo 2 - Manipulação de listas
+# Modulo 2 - Manipulação de listas :heavy_check_mark:
+### :one: Foi visto também os métodos map, filter e reduce
+- Utilizamos eles e vimos como que eles funcionam
+- Criamos nossos própios métodos
+### :two: E para exemplificar o um exemplo real utilizamos o Axios e foi consumida uma API 
+- Criamos um arquivo server.js e importamos o axios
+- A api o utilizada foi a SWAPI
+- [API - StarWars](https://swapi.dev/)
+
+### :three: Features vistas:
+:ballot_box_with_check: For Loop<br>
+:ballot_box_with_check: For in<br>
+:ballot_box_with_check: For of<br>
+:ballot_box_with_check: For Each<br>
