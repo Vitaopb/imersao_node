@@ -24,3 +24,11 @@
 :ballot_box_with_check: For Each
 #### Uma observação é que usamos o console.time para ver qual deles é mais performático.<br>E o for in foi o mais rápido com 0.029ms de velocidade.
 <hr>
+
+# Modulo 3 - Introdução a Testes automatizados :heavy_check_mark:
+### :one: Foi visto uma introdução a uma programação orientada a testes
+- Como funciona.
+- Como prearar o ambiente.
+### :two: Exitem vários pacotes para testes, foi usado o "mocha" juntamente com o modulo "assert"
+### :three: De quebra ainda vimos o pacote "nock" que simula requisições para que não seja nescessario ficar sempre fazendo chamadas na API, para testar os casos de teste.
+### Foi um modulo para que possamos conhecer e ver como é importante essa pratica no desenvolvimento de software.
